@@ -1,6 +1,6 @@
 from random import choice
 from words import word_list
-
+#KarsonLawson on twitter
 worda = choice(word_list)
 word = list(worda)
 
